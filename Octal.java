@@ -15,6 +15,5 @@ public class Octal {
      System.out.println(a);
      System.out.println(b);
      System.out.println(d);
-     System.out.println(f);
  }
 }

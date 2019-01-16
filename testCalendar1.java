@@ -1,6 +1,6 @@
 import java.util.Calendar;
 
-class testCalendar1{
+public class TestCalendar1{
 
     public static void main(String args[]){
         String[] week_name = {"日曜日", "月曜日", "火曜日",
